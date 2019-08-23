@@ -4,4 +4,5 @@ function clock() {
   myClock.innerText = ("0" + today.getHours()).slice(-2) + " : " + ("0" + today.getMinutes()).slice(-2) + " : " + ("0" + today.getSeconds()).slice(-2);
 }
 
+clock();
 setInterval(clock, 1000);

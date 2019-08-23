@@ -5,10 +5,14 @@ body {
   font-family: Ubuntu;
 }
 
+li {
+  text-align: justify;
+}
+
 #my-clock {
   font-weight: bold;
   text-align: center;
-  font-size: 180px;
+  font-size: 100px;
   border-bottom: 2px solid #aaa;
 }
 
