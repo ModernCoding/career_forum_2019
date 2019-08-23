@@ -23,11 +23,8 @@ li {
 .my-button-number, .my-button-name {
   font-weight: bold;
   font-size: 28px;
-}
-
-.my-button-number {
-  width: 54px;
   margin-right: 19px;
 }
 
+.my-button-number { width: 54px; }
 .my-button-name { width: 400px; }
